@@ -1,2 +1,5 @@
-# Software-Design-Pattern
-Software Design Pattern analysis and outcomes
+# SDP
+
+-> Clone this Repo
+-> npm i
+-> npm run dev
